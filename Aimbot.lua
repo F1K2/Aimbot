@@ -11,7 +11,7 @@ _G.TeamCheck = false -- If set to true then the script would only lock your aim 
 _G.AimPart = "Head" -- Where the aimbot script would lock at.
 _G.Sensitivity = 0 -- How many seconds it takes for the aimbot script to officially lock onto the target's aimpart.
 
-_G.CircleSides = 64 -- How many sides the FOV circle would have.
+_G.CircleSides = 640 -- How many sides the FOV circle would have.
 _G.CircleColor = Color3.fromRGB(255, 0, 0) -- (RGB) Color that the FOV circle would appear as.
 _G.CircleTransparency = 0.7 -- Transparency of the circle.
 _G.CircleRadius = 300 -- The radius of the circle / FOV.
